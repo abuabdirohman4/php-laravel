@@ -1,0 +1,20 @@
+[submodule "laravel-8-foodmarket-api"]
+	path = laravel-8-foodmarket-api
+	url = git@github.com:abuabdirohman4/laravel-8-foodmartket-api.git
+	branch = develop
+[submodule "laravel-8-my-blog"]
+	path = laravel-8-my-blog
+	url = git@github.com:abuabdirohman4/laravel-8-my-blog.git
+	branch = main
+[submodule "laravel-9-nomads-travel-web"]
+	path = laravel-9-nomads-travel-web
+	url = git@github.com:abuabdirohman4/laravel-9-nomads-travel-web.git
+	branch = master
+[submodule "laravel-8-rest-api"]
+	path = laravel-8-rest-api
+	url = git@github.com:abuabdirohman4/laravel-8-rest-api.git
+	branch = develop
+[submodule "laravel-9-stream-movie-online"]
+	path = laravel-9-stream-movie-online
+	url = git@github.com:abuabdirohman4/laravel-9-stream-movie-online.git
+	branch = develop

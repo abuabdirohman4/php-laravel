@@ -18,3 +18,7 @@
 	path = laravel-9-stream-movie-online
 	url = git@github.com:abuabdirohman4/laravel-9-stream-movie-online.git
 	branch = develop
+[submodule "laravel-9-livewire"]
+	path = laravel-9-livewire
+	url = git@github.com:abuabdirohman4/laravel-9-livewire.git
+	branch = master

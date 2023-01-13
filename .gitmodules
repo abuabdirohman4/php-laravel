@@ -26,6 +26,3 @@
 	path = laravel-9-role-permission
 	url = git@github.com:abuabdirohman4/laravel-9-role-permission.git
 	branch = master
-[submodule "laravel-9-filament"]
-	path = laravel-9-filament
-	url = git@github.com:abuabdirohman4/laravel-9-filament.git
